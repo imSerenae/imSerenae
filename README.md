@@ -1,4 +1,39 @@
-## Hi there 👋
+### About me
+
+I am a software engineer having several years of professional experience within different roles.
+I have made several [contributions to open source](https://github.com/amotl) and helped creating different online communities. Besides contributing to open source I enjoy interacting with people and tinkering with software development in general. 
+Currently, I am working at [Crate.IO GmbH](https://crate.io/).
+
+### Things from my own pen and contributions to other projects
+
+Receiving contributions to any of them makes me happy. Enjoy!
+
+#### Data acquisition
+- [Kotori] - A flexible data historian based on InfluxDB, Grafana, MQTT and more.
+- [Terkin] - A datalogger for MicroPython and CPython.
+- [mqttwarn] - Subscribe to MQTT topics and notify pluggable services.
+
+#### Earth observations / Open Data
+- [Wetterdienst] - Python Toolset For Accessing Weather Data From German Weather Service.
+- [Luftdatenpumpe] - Process live and historical data from luftdaten.info, IRCELINE and OpenAQ. Filter by station-id, sensor-id and sensor-type, apply reverse geocoding, store into timeseries and RDBMS databases, publish to MQTT, output as JSON or visualize in Grafana. 
+- [phenodata] - A data acquisition and manipulation toolkit for open access phenology data.
+
+#### Grafana
+- [Grafana Map Panel] - Fork of the original Grafana Worldmap Panel with improved convenience, robustness and features.
+- [grafanimate] - Animate timeseries data with Grafana.
+- [grafana-wtf] - Grep through all Grafana entities in the spirit of git-wtf.
+
+#### Discourse
+- [discodoc] - Create hardcopy-like documents from Discourse content easily.
+- [github-to-discourse] - Forward any 'push' webhooks it receives to a specified thread on a Discourse forum.
+
+#### Misc
+- [PatZilla] - A modular patent information research platform and data integration toolkit with a modern user interface and access to multiple data sources.
+- [Vasuki] - Vasuki generates different kinds of random unique identifiers, tokens and words. Aims to make identifier generation effortless.
+- [Shaka Packager] - A media packaging and development framework for VOD and Live DASH and HLS applications, which is part of the infrastructure powering YouTube.
+- [Pycom MicroPython] - The firmware powering Pycom devices, a fork of MicroPython.
+- [lovely.testlayers] - Testlayers for Python's unittest and zope.testrunner.
+- [xmpppy] - Python 2/3 implementation of XMPP (RFC3920, RFC3921).
 
 <!--
 **imSerenae/imSerenae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
